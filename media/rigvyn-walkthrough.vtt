@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00.000 --> 00:04.000
+Name your rig and choose a local solver.
+
+00:04.000 --> 00:08.000
+Read the task: four boolean variables and eight clauses.
+
+00:08.000 --> 00:12.000
+Run the solver to search all sixteen assignments.
+
+00:12.000 --> 00:16.000
+Inspect the accepted answer and each validation check.
+
+00:16.000 --> 00:20.000
+Explore sample SOL credits. No real reward or transaction.
