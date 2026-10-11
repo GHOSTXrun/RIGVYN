@@ -1,0 +1,126 @@
+{
+  "/": {
+    "html": "index.html",
+    "rsc": "snapshots/rsc/home.txt"
+  },
+  "/claim": {
+    "html": "claim/index.html",
+    "rsc": "snapshots/rsc/claim.txt"
+  },
+  "/launch": {
+    "html": "launch/index.html",
+    "rsc": "snapshots/rsc/launch.txt"
+  },
+  "/blocks": {
+    "html": "blocks/index.html",
+    "rsc": "snapshots/rsc/blocks.txt"
+  },
+  "/mine": {
+    "html": "mine/index.html",
+    "rsc": "snapshots/rsc/mine.txt"
+  },
+  "/rigs": {
+    "html": "rigs/index.html",
+    "rsc": "snapshots/rsc/rigs.txt"
+  },
+  "/vault": {
+    "html": "vault/index.html",
+    "rsc": "snapshots/rsc/vault.txt"
+  },
+  "/blocks/10": {
+    "html": "blocks/10/index.html",
+    "rsc": "snapshots/rsc/blocks--10.txt"
+  },
+  "/blocks/12": {
+    "html": "blocks/12/index.html",
+    "rsc": "snapshots/rsc/blocks--12.txt"
+  },
+  "/blocks/2": {
+    "html": "blocks/2/index.html",
+    "rsc": "snapshots/rsc/blocks--2.txt"
+  },
+  "/blocks/6": {
+    "html": "blocks/6/index.html",
+    "rsc": "snapshots/rsc/blocks--6.txt"
+  },
+  "/blocks/13": {
+    "html": "blocks/13/index.html",
+    "rsc": "snapshots/rsc/blocks--13.txt"
+  },
+  "/blocks/21": {
+    "html": "blocks/21/index.html",
+    "rsc": "snapshots/rsc/blocks--21.txt"
+  },
+  "/blocks/16": {
+    "html": "blocks/16/index.html",
+    "rsc": "snapshots/rsc/blocks--16.txt"
+  },
+  "/blocks/9": {
+    "html": "blocks/9/index.html",
+    "rsc": "snapshots/rsc/blocks--9.txt"
+  },
+  "/blocks/4": {
+    "html": "blocks/4/index.html",
+    "rsc": "snapshots/rsc/blocks--4.txt"
+  },
+  "/blocks/20": {
+    "html": "blocks/20/index.html",
+    "rsc": "snapshots/rsc/blocks--20.txt"
+  },
+  "/blocks/19": {
+    "html": "blocks/19/index.html",
+    "rsc": "snapshots/rsc/blocks--19.txt"
+  },
+  "/blocks/7": {
+    "html": "blocks/7/index.html",
+    "rsc": "snapshots/rsc/blocks--7.txt"
+  },
+  "/blocks/11": {
+    "html": "blocks/11/index.html",
+    "rsc": "snapshots/rsc/blocks--11.txt"
+  },
+  "/blocks/17": {
+    "html": "blocks/17/index.html",
+    "rsc": "snapshots/rsc/blocks--17.txt"
+  },
+  "/blocks/15": {
+    "html": "blocks/15/index.html",
+    "rsc": "snapshots/rsc/blocks--15.txt"
+  },
+  "/blocks/8": {
+    "html": "blocks/8/index.html",
+    "rsc": "snapshots/rsc/blocks--8.txt"
+  },
+  "/blocks/3": {
+    "html": "blocks/3/index.html",
+    "rsc": "snapshots/rsc/blocks--3.txt"
+  },
+  "/blocks/1": {
+    "html": "blocks/1/index.html",
+    "rsc": "snapshots/rsc/blocks--1.txt"
+  },
+  "/blocks/14": {
+    "html": "blocks/14/index.html",
+    "rsc": "snapshots/rsc/blocks--14.txt"
+  },
+  "/blocks/5": {
+    "html": "blocks/5/index.html",
+    "rsc": "snapshots/rsc/blocks--5.txt"
+  },
+  "/blocks/18": {
+    "html": "blocks/18/index.html",
+    "rsc": "snapshots/rsc/blocks--18.txt"
+  },
+  "/rigs/rig-22": {
+    "html": "rigs/rig-22/index.html",
+    "rsc": "snapshots/rsc/rigs--rig-22.txt"
+  },
+  "/rigs/rig-01": {
+    "html": "rigs/rig-01/index.html",
+    "rsc": "snapshots/rsc/rigs--rig-01.txt"
+  },
+  "/rigs/rig-04": {
+    "html": "rigs/rig-04/index.html",
+    "rsc": "snapshots/rsc/rigs--rig-04.txt"
+  }
+}
